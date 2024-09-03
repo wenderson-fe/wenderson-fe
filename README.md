@@ -1,7 +1,5 @@
 ## Olá
-Meu nome é Wenderson, tenho 20 anos e estou no 3º semestre do curso de Análise e Desenvolvimento de Sistemas. Moro em São Paulo e planejo realizar uma segunda graduação no futuro.
-
-Meu interesse pela tecnologia começou cedo, aos 12 anos, quando tentei consertar um computador antigo. Aos 15, tive a certeza de que queria atuar nessa vasta área.
+Meu nome é Wenderson, tenho 20 anos e estou no 3º semestre do curso de Análise e Desenvolvimento de Sistemas. Moro em São Paulo.
 
 Estou me dedicando aos estudos para me tornar um profissional atemporal!
 
