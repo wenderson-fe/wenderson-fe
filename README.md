@@ -1,5 +1,5 @@
 ## Olá
-Meu nome é Wenderson, tenho 20 anos e estou no 3º semestre do curso de Análise e Desenvolvimento de Sistemas. Moro em São Paulo.
+Meu nome é Wenderson, estou no 3º semestre do curso de Análise e Desenvolvimento de Sistemas. Moro em São Paulo.
 
 Estou me dedicando aos estudos para me tornar um profissional atemporal!
 
